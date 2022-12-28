@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Homework-Practices 26.12.2022/1.0.0": {
+        "dependencies": {
+          "ServiceLayer": "1.0.0"
+        },
+        "runtime": {
+          "Homework-Practices 26.12.2022.dll": {}
+        }
+      },
+      "DomainLayer/1.0.0": {
+        "runtime": {
+          "DomainLayer.dll": {}
+        }
+      },
+      "ServiceLayer/1.0.0": {
+        "dependencies": {
+          "DomainLayer": "1.0.0"
+        },
+        "runtime": {
+          "ServiceLayer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Homework-Practices 26.12.2022/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DomainLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ServiceLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

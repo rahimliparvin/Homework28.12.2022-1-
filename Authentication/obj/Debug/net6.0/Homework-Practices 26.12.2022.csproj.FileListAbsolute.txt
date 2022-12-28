@@ -1,0 +1,40 @@
+C:\Users\halak\OneDrive\Desktop\Homework-Practices 26.12.2022\Homework-Practices 26.12.2022\bin\Debug\net6.0\Homework-Practices 26.12.2022.exe
+C:\Users\halak\OneDrive\Desktop\Homework-Practices 26.12.2022\Homework-Practices 26.12.2022\bin\Debug\net6.0\Homework-Practices 26.12.2022.deps.json
+C:\Users\halak\OneDrive\Desktop\Homework-Practices 26.12.2022\Homework-Practices 26.12.2022\bin\Debug\net6.0\Homework-Practices 26.12.2022.runtimeconfig.json
+C:\Users\halak\OneDrive\Desktop\Homework-Practices 26.12.2022\Homework-Practices 26.12.2022\bin\Debug\net6.0\Homework-Practices 26.12.2022.dll
+C:\Users\halak\OneDrive\Desktop\Homework-Practices 26.12.2022\Homework-Practices 26.12.2022\bin\Debug\net6.0\Homework-Practices 26.12.2022.pdb
+C:\Users\halak\OneDrive\Desktop\Homework-Practices 26.12.2022\Homework-Practices 26.12.2022\bin\Debug\net6.0\ServiceLayer.dll
+C:\Users\halak\OneDrive\Desktop\Homework-Practices 26.12.2022\Homework-Practices 26.12.2022\bin\Debug\net6.0\ServiceLayer.pdb
+C:\Users\halak\OneDrive\Desktop\Homework-Practices 26.12.2022\Homework-Practices 26.12.2022\obj\Debug\net6.0\Homework-Practices 26.12.2022.csproj.AssemblyReference.cache
+C:\Users\halak\OneDrive\Desktop\Homework-Practices 26.12.2022\Homework-Practices 26.12.2022\obj\Debug\net6.0\Homework-Practices 26.12.2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halak\OneDrive\Desktop\Homework-Practices 26.12.2022\Homework-Practices 26.12.2022\obj\Debug\net6.0\Homework-Practices 26.12.2022.AssemblyInfoInputs.cache
+C:\Users\halak\OneDrive\Desktop\Homework-Practices 26.12.2022\Homework-Practices 26.12.2022\obj\Debug\net6.0\Homework-Practices 26.12.2022.AssemblyInfo.cs
+C:\Users\halak\OneDrive\Desktop\Homework-Practices 26.12.2022\Homework-Practices 26.12.2022\obj\Debug\net6.0\Homework-Practices 26.12.2022.csproj.CoreCompileInputs.cache
+C:\Users\halak\OneDrive\Desktop\Homework-Practices 26.12.2022\Homework-Practices 26.12.2022\obj\Debug\net6.0\Homework-Practices 26.12.2022.csproj.CopyComplete
+C:\Users\halak\OneDrive\Desktop\Homework-Practices 26.12.2022\Homework-Practices 26.12.2022\obj\Debug\net6.0\Homework-Practices 26.12.2022.dll
+C:\Users\halak\OneDrive\Desktop\Homework-Practices 26.12.2022\Homework-Practices 26.12.2022\obj\Debug\net6.0\refint\Homework-Practices 26.12.2022.dll
+C:\Users\halak\OneDrive\Desktop\Homework-Practices 26.12.2022\Homework-Practices 26.12.2022\obj\Debug\net6.0\Homework-Practices 26.12.2022.pdb
+C:\Users\halak\OneDrive\Desktop\Homework-Practices 26.12.2022\Homework-Practices 26.12.2022\obj\Debug\net6.0\Homework-Practices 26.12.2022.genruntimeconfig.cache
+C:\Users\halak\OneDrive\Desktop\Homework-Practices 26.12.2022\Homework-Practices 26.12.2022\obj\Debug\net6.0\ref\Homework-Practices 26.12.2022.dll
+C:\Users\halak\OneDrive\Desktop\Homework-Practices 26.12.2022\Homework-Practices 26.12.2022\bin\Debug\net6.0\DomainLayer.dll
+C:\Users\halak\OneDrive\Desktop\Homework-Practices 26.12.2022\Homework-Practices 26.12.2022\bin\Debug\net6.0\DomainLayer.pdb
+C:\Users\CASPER\Desktop\New folder\C-homework-26.12.2022\Homework-Practices 26.12.2022\bin\Debug\net6.0\Homework-Practices 26.12.2022.exe
+C:\Users\CASPER\Desktop\New folder\C-homework-26.12.2022\Homework-Practices 26.12.2022\bin\Debug\net6.0\Homework-Practices 26.12.2022.deps.json
+C:\Users\CASPER\Desktop\New folder\C-homework-26.12.2022\Homework-Practices 26.12.2022\bin\Debug\net6.0\Homework-Practices 26.12.2022.runtimeconfig.json
+C:\Users\CASPER\Desktop\New folder\C-homework-26.12.2022\Homework-Practices 26.12.2022\bin\Debug\net6.0\Homework-Practices 26.12.2022.dll
+C:\Users\CASPER\Desktop\New folder\C-homework-26.12.2022\Homework-Practices 26.12.2022\bin\Debug\net6.0\Homework-Practices 26.12.2022.pdb
+C:\Users\CASPER\Desktop\New folder\C-homework-26.12.2022\Homework-Practices 26.12.2022\bin\Debug\net6.0\DomainLayer.dll
+C:\Users\CASPER\Desktop\New folder\C-homework-26.12.2022\Homework-Practices 26.12.2022\bin\Debug\net6.0\ServiceLayer.dll
+C:\Users\CASPER\Desktop\New folder\C-homework-26.12.2022\Homework-Practices 26.12.2022\bin\Debug\net6.0\ServiceLayer.pdb
+C:\Users\CASPER\Desktop\New folder\C-homework-26.12.2022\Homework-Practices 26.12.2022\bin\Debug\net6.0\DomainLayer.pdb
+C:\Users\CASPER\Desktop\New folder\C-homework-26.12.2022\Homework-Practices 26.12.2022\obj\Debug\net6.0\Homework-Practices 26.12.2022.csproj.AssemblyReference.cache
+C:\Users\CASPER\Desktop\New folder\C-homework-26.12.2022\Homework-Practices 26.12.2022\obj\Debug\net6.0\Homework-Practices 26.12.2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CASPER\Desktop\New folder\C-homework-26.12.2022\Homework-Practices 26.12.2022\obj\Debug\net6.0\Homework-Practices 26.12.2022.AssemblyInfoInputs.cache
+C:\Users\CASPER\Desktop\New folder\C-homework-26.12.2022\Homework-Practices 26.12.2022\obj\Debug\net6.0\Homework-Practices 26.12.2022.AssemblyInfo.cs
+C:\Users\CASPER\Desktop\New folder\C-homework-26.12.2022\Homework-Practices 26.12.2022\obj\Debug\net6.0\Homework-Practices 26.12.2022.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\Desktop\New folder\C-homework-26.12.2022\Homework-Practices 26.12.2022\obj\Debug\net6.0\Homework-Practices 26.12.2022.csproj.CopyComplete
+C:\Users\CASPER\Desktop\New folder\C-homework-26.12.2022\Homework-Practices 26.12.2022\obj\Debug\net6.0\Homework-Practices 26.12.2022.dll
+C:\Users\CASPER\Desktop\New folder\C-homework-26.12.2022\Homework-Practices 26.12.2022\obj\Debug\net6.0\refint\Homework-Practices 26.12.2022.dll
+C:\Users\CASPER\Desktop\New folder\C-homework-26.12.2022\Homework-Practices 26.12.2022\obj\Debug\net6.0\Homework-Practices 26.12.2022.pdb
+C:\Users\CASPER\Desktop\New folder\C-homework-26.12.2022\Homework-Practices 26.12.2022\obj\Debug\net6.0\Homework-Practices 26.12.2022.genruntimeconfig.cache
+C:\Users\CASPER\Desktop\New folder\C-homework-26.12.2022\Homework-Practices 26.12.2022\obj\Debug\net6.0\ref\Homework-Practices 26.12.2022.dll
